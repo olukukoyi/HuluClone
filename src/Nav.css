@@ -1,0 +1,32 @@
+.nav {
+  display: flex;
+  color: white;
+  overflow-x: scroll;
+  padding: 10px;
+  padding-left: 40px;
+  /* width: 100%; */
+  padding-bottom: 35px;
+}
+
+/* Hides scrollbar from Chrome, Safari and Opera */
+.nav::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hides scrollbar for IE, Edge and Firefox */
+.nav {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.nav > h2 {
+  cursor: pointer;
+  margin: 0 30px;
+  opacity: 0.6;
+  transition: all 50ms ease-out;
+}
+
+.nav > h2:hover {
+  opacity: 1;
+  transform: scale(1.2);
+}
