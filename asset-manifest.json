@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HuluClone/static/css/main.3cec54dd.css",
+    "main.js": "/HuluClone/static/js/main.e20b7784.js",
+    "static/js/787.7d97ca0e.chunk.js": "/HuluClone/static/js/787.7d97ca0e.chunk.js",
+    "index.html": "/HuluClone/index.html",
+    "main.3cec54dd.css.map": "/HuluClone/static/css/main.3cec54dd.css.map",
+    "main.e20b7784.js.map": "/HuluClone/static/js/main.e20b7784.js.map",
+    "787.7d97ca0e.chunk.js.map": "/HuluClone/static/js/787.7d97ca0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cec54dd.css",
+    "static/js/main.e20b7784.js"
+  ]
+}
